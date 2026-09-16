@@ -1,18 +1,11 @@
 
-
-# 
-
-# 
-
-# 
-
 # Мобильное приложение «Запись на приём» 
 
-# Software Requirements Specification (SRS) 
+## Software Requirements Specification (SRS) 
 
 Стандарт: ISO/IEC/IEEE 29148:2018
 
-# Версия 1.0
+### Версия 1.0
 
 # **Журнал изменений**
 
