@@ -1,11 +1,26 @@
-# System Analyst Portfolio
-
-6+ years in IT
-Requirements · API · Integrations · Documentation · Process Analysis
-
----
-
 # Портфолио Системного аналитика
 
-6+ лет в IT.
-Требования · API · Интеграции · Документация · Анализ процессов
+Привет! Я системный аналитик с 6+ годами опыта в IT. Специализируюсь на проектировании API, моделировании бизнес-процессов и подготовке требований для сложных продуктов. Здесь я собрала примеры артефактов, которые демонстрируют мой подход к работе.
+
+## 🧑‍💻 Обо мне
+
+- **Опыт**: 6+ лет в системном анализе и IT в целом.
+- **Домен**: заказная разработка (CustDev), iGaming.
+- **Ключевые компетенции**: сбор и структурирование требований, BPMN, ER-моделирование, проектирование REST API, написание SRS и пользовательских историй.
+- **Инструменты**: Jira, Confluence, YouTrack, Trello, Draw.io, OpenAPI, Archbee, Postman, Swagger, Markdown.
+
+## 📁 Проекты
+
+| Проект | Описание | Ключевые артефакты |
+| :--- | :--- | :--- |
+| **[Сервис онлайн-консультаций](https://github.com/Helliana/system_analysis_portfolio/tree/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service.)** | Платформа для видеоконсультаций с врачами. Роль: системный аналитик. | [Описание проекта](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.md), [Описание функций MVP проекта](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8.md), [Пользовательские и функциональные сценарии MVP проекта](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8_MVP_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.md), [Концептуальная модель](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_MVP.drawio.png), [Прототипы интерфейсов](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B_MVP.jpg), [Flowchart проведения занятия](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F.drawio.png), [Flowchart процесса арбитража консультации](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/online_consultation_service./%D0%91%D0%BB%D0%BE%D0%BA_%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6.drawio.png) |
+| **[Сервис записи на приём к врачу](https://github.com/Helliana/system_analysis_portfolio/tree/a64d34947c17448492292799ee8b189b3871fb22/%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%20%D0%BA%20%D0%B2%D1%80%D0%B0%D1%87%D1%83)** | Сервис для записи в клиники. Роль: системный аналитик. Учебный проект с курса "Системный Аналитик PRO+Нейросети" в Нетологии. | [SRS](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%20%D0%BA%20%D0%B2%D1%80%D0%B0%D1%87%D1%83/SRS%20%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%C2%AB%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%91%D0%BC%C2%BB.md), [Анализ требований](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%20%D0%BA%20%D0%B2%D1%80%D0%B0%D1%87%D1%83/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.md) |
+| **[Приложение «Будильник»](https://github.com/Helliana/system_analysis_portfolio/tree/a64d34947c17448492292799ee8b189b3871fb22/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%91%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA)** | Мобильное приложение для управления будильниками. Роль: системный аналитик. | [SRS](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%91%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA/Software%20Requirements%20Specification%20_%D0%91%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_.md) |
+| **[BPMN-схема заказа конфет с завода](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/BPMN_order.drawio.png)** | Схема процесса оформления заказа (as-is / to-be). | [PNG](https://github.com/Helliana/system_analysis_portfolio/blob/a64d34947c17448492292799ee8b189b3871fb22/BPMN_order.drawio.png) |
+
+## 🛠 Навыки и инструменты
+
+- **Моделирование**: BPMN 2.0, UML (Use Case, Sequence), ERD.
+- **Документация**: SRS, User Stories, Use Cases, NFR, RTM.
+- **API**: OpenAPI/Swagger, REST, JSON.
+- **Инструменты**: Draw.io, Archbee, YouTrack, Jira, Confluence, Git.
